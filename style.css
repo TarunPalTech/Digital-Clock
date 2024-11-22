@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+#banner{
+    background-color: cyan;
+    border-radius: 10px;
+    padding: 100px;
+}
+
+span{
+    font-family: serif;
+    font-size: 5em;
+}
+
+#clock{
+    background-color: orange;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 7em;
+    margin-top: 50px;
+}
